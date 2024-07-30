@@ -1,4 +1,4 @@
-package com.preslavrachev.cryptotrader.extension
+package com.jamesbrookssoft.cryptotrader.extension
 
 fun <T> List<T>.toPairs(): List<Pair<T,T>> {
     val leftSide = this.dropLast(1)

@@ -1,6 +1,6 @@
-package com.preslavrachev.cryptotrader.persistence.repository
+package com.jamesbrookssoft.cryptotrader.persistence.repository
 
-import com.preslavrachev.cryptotrader.mvc.model.TradeRecord
+import com.jamesbrookssoft.cryptotrader.mvc.model.TradeRecord
 import org.springframework.data.mongodb.repository.MongoRepository
 
 interface TradeRecordRepository: MongoRepository<TradeRecord, String>

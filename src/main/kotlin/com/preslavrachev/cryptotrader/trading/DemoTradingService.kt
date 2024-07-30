@@ -1,7 +1,7 @@
-package com.preslavrachev.cryptotrader.trading
+package com.jamesbrookssoft.cryptotrader.trading
 
-import com.preslavrachev.cryptotrader.mvc.model.Order
-import com.preslavrachev.cryptotrader.trading.api.TradingApi
+import com.jamesbrookssoft.cryptotrader.mvc.model.Order
+import com.jamesbrookssoft.cryptotrader.trading.api.TradingApi
 import org.springframework.stereotype.Service
 
 @Service

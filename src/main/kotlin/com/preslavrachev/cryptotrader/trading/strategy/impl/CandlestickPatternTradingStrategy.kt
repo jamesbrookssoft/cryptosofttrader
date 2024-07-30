@@ -1,10 +1,10 @@
-package com.preslavrachev.cryptotrader.trading.strategy.impl
+package com.jamesbrookssoft.cryptotrader.trading.strategy.impl
 
-import com.preslavrachev.cryptotrader.trading.instrument.candlestick.Candlestick
-import com.preslavrachev.cryptotrader.trading.instrument.candlestick.CandlestickPatternEnum
-import com.preslavrachev.cryptotrader.trading.instrument.timeline.TimelineNode
-import com.preslavrachev.cryptotrader.trading.strategy.TradingStrategy
-import com.preslavrachev.cryptotrader.trading.strategy.TradingStrategyDecisionEnum
+import com.jamesbrookssoft.cryptotrader.trading.instrument.candlestick.Candlestick
+import com.jamesbrookssoft.cryptotrader.trading.instrument.candlestick.CandlestickPatternEnum
+import com.jamesbrookssoft.cryptotrader.trading.instrument.timeline.TimelineNode
+import com.jamesbrookssoft.cryptotrader.trading.strategy.TradingStrategy
+import com.jamesbrookssoft.cryptotrader.trading.strategy.TradingStrategyDecisionEnum
 import java.util.*
 import java.util.logging.Logger
 

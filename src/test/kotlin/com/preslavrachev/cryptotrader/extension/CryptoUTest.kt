@@ -1,4 +1,4 @@
-package com.preslavrachev.cryptotrader.extension
+package com.jamesbrookssoft.cryptotrader.extension
 
 import org.junit.Assert
 import org.junit.Test

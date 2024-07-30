@@ -1,4 +1,4 @@
-package com.preslavrachev.cryptotrader.trading.instrument.candlestick
+package com.jamesbrookssoft.cryptotrader.trading.instrument.candlestick
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.module.kotlin.KotlinModule

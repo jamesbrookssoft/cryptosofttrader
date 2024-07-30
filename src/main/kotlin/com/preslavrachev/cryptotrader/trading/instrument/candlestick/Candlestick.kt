@@ -1,4 +1,4 @@
-package com.preslavrachev.cryptotrader.trading.instrument.candlestick
+package com.jamesbrookssoft.cryptotrader.trading.instrument.candlestick
 
 data class Candlestick(
         val open: Float,

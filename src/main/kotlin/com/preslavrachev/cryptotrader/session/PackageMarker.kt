@@ -1,3 +1,3 @@
-package com.preslavrachev.cryptotrader.session
+package com.jamesbrookssoft.cryptotrader.session
 
 class PackageMarker

@@ -1,4 +1,4 @@
-package com.preslavrachev.cryptotrader.trading.instrument.timeline
+package com.jamesbrookssoft.cryptotrader.trading.instrument.timeline
 
 import java.time.LocalDateTime
 

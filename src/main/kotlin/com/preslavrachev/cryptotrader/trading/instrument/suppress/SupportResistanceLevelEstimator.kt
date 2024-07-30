@@ -1,6 +1,6 @@
-package com.preslavrachev.cryptotrader.trading.instrument.suppress
+package com.jamesbrookssoft.cryptotrader.trading.instrument.suppress
 
-import com.preslavrachev.cryptotrader.trading.helper.PriceAndTimestamp
+import com.jamesbrookssoft.cryptotrader.trading.helper.PriceAndTimestamp
 import org.springframework.stereotype.Component
 
 /**

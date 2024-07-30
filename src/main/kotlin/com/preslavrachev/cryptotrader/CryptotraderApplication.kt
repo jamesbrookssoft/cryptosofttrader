@@ -1,15 +1,15 @@
-package com.preslavrachev.cryptotrader
+package com.jamesbrookssoft.cryptotrader
 
-import com.preslavrachev.cryptotrader.extension.minusSecondPeriods
-import com.preslavrachev.cryptotrader.extension.toCandlestick
-import com.preslavrachev.cryptotrader.extension.toUnixTimestamp
-import com.preslavrachev.cryptotrader.mvc.model.OrderTypeEnum
-import com.preslavrachev.cryptotrader.mvc.model.TradeRecord
-import com.preslavrachev.cryptotrader.persistence.repository.TradeRecordRepository
-import com.preslavrachev.cryptotrader.session.AppSession
-import com.preslavrachev.cryptotrader.trading.instrument.timeline.TimelineNode
-import com.preslavrachev.cryptotrader.trading.strategy.TradingStrategyDecisionEnum
-import com.preslavrachev.cryptotrader.trading.strategy.impl.CandlestickPatternTradingStrategy
+import com.jamesbrookssoft.cryptotrader.extension.minusSecondPeriods
+import com.jamesbrookssoft.cryptotrader.extension.toCandlestick
+import com.jamesbrookssoft.cryptotrader.extension.toUnixTimestamp
+import com.jamesbrookssoft.cryptotrader.mvc.model.OrderTypeEnum
+import com.jamesbrookssoft.cryptotrader.mvc.model.TradeRecord
+import com.jamesbrookssoft.cryptotrader.persistence.repository.TradeRecordRepository
+import com.jamesbrookssoft.cryptotrader.session.AppSession
+import com.jamesbrookssoft.cryptotrader.trading.instrument.timeline.TimelineNode
+import com.jamesbrookssoft.cryptotrader.trading.strategy.TradingStrategyDecisionEnum
+import com.jamesbrookssoft.cryptotrader.trading.strategy.impl.CandlestickPatternTradingStrategy
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.scheduling.annotation.Scheduled

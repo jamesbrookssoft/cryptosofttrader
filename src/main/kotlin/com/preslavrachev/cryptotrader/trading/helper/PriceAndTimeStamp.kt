@@ -1,4 +1,4 @@
-package com.preslavrachev.cryptotrader.trading.helper
+package com.jamesbrookssoft.cryptotrader.trading.helper
 
 import remote.poloniex.model.ChartDataEntry
 

@@ -1,6 +1,6 @@
-package com.preslavrachev.cryptotrader.trading.strategy
+package com.jamesbrookssoft.cryptotrader.trading.strategy
 
-import com.preslavrachev.cryptotrader.trading.instrument.timeline.TimelineNode
+import com.jamesbrookssoft.cryptotrader.trading.instrument.timeline.TimelineNode
 
 interface TradingStrategy<in T> {
     fun decide(input: List<TimelineNode<T>>): TradingStrategyDecisionEnum

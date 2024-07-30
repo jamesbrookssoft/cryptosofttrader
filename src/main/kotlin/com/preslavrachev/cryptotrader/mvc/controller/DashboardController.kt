@@ -1,8 +1,8 @@
-package com.preslavrachev.cryptotrader.mvc.controller
-import com.preslavrachev.cryptotrader.extension.minusSecondPeriods
-import com.preslavrachev.cryptotrader.extension.toUnixTimestamp
-import com.preslavrachev.cryptotrader.mvc.model.Order
-import com.preslavrachev.cryptotrader.session.AppSession
+package com.jamesbrookssoft.cryptotrader.mvc.controller
+import com.jamesbrookssoft.cryptotrader.extension.minusSecondPeriods
+import com.jamesbrookssoft.cryptotrader.extension.toUnixTimestamp
+import com.jamesbrookssoft.cryptotrader.mvc.model.Order
+import com.jamesbrookssoft.cryptotrader.session.AppSession
 import org.springframework.stereotype.Controller
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RequestMapping

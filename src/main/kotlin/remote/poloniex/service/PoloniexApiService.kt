@@ -1,6 +1,6 @@
 package remote.poloniex.service
 
-import com.preslavrachev.cryptotrader.extension.encrypt512
+import com.jamesbrookssoft.cryptotrader.extension.encrypt512
 import org.springframework.beans.factory.annotation.Value
 import org.springframework.http.HttpEntity
 import org.springframework.http.HttpHeaders

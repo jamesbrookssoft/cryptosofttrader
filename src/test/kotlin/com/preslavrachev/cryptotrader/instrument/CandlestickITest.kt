@@ -1,10 +1,10 @@
-package com.preslavrachev.cryptotrader.instrument
+package com.jamesbrookssoft.cryptotrader.instrument
 
-import com.preslavrachev.cryptotrader.config.MainAppConfig
-import com.preslavrachev.cryptotrader.extension.minusSecondPeriods
-import com.preslavrachev.cryptotrader.extension.toCandlestick
-import com.preslavrachev.cryptotrader.extension.toUnixTimestamp
-import com.preslavrachev.cryptotrader.trading.instrument.candlestick.CandlestickPatternEnum
+import com.jamesbrookssoft.cryptotrader.config.MainAppConfig
+import com.jamesbrookssoft.cryptotrader.extension.minusSecondPeriods
+import com.jamesbrookssoft.cryptotrader.extension.toCandlestick
+import com.jamesbrookssoft.cryptotrader.extension.toUnixTimestamp
+import com.jamesbrookssoft.cryptotrader.trading.instrument.candlestick.CandlestickPatternEnum
 import org.junit.Ignore
 import org.junit.Test
 import org.junit.runner.RunWith

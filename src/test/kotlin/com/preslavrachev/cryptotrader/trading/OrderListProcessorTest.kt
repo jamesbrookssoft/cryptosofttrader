@@ -1,8 +1,8 @@
-package com.preslavrachev.cryptotrader.trading
+package com.jamesbrookssoft.cryptotrader.trading
 
-import com.preslavrachev.cryptotrader.mvc.model.Order
-import com.preslavrachev.cryptotrader.mvc.model.OrderStateEnum
-import com.preslavrachev.cryptotrader.mvc.model.OrderTypeEnum
+import com.jamesbrookssoft.cryptotrader.mvc.model.Order
+import com.jamesbrookssoft.cryptotrader.mvc.model.OrderStateEnum
+import com.jamesbrookssoft.cryptotrader.mvc.model.OrderTypeEnum
 import org.junit.Assert
 import org.junit.Before
 import org.junit.Test

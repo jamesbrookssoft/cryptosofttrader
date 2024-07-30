@@ -1,6 +1,6 @@
-package com.preslavrachev.cryptotrader.session
+package com.jamesbrookssoft.cryptotrader.session
 
-import com.preslavrachev.cryptotrader.mvc.model.Order
+import com.jamesbrookssoft.cryptotrader.mvc.model.Order
 import org.springframework.context.annotation.Scope
 import org.springframework.stereotype.Component
 

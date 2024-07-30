@@ -1,4 +1,4 @@
-package com.preslavrachev.cryptotrader.extension
+package com.jamesbrookssoft.cryptotrader.extension
 
 import java.time.LocalDateTime
 

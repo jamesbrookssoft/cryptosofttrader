@@ -1,6 +1,6 @@
 # CryptoTrader
 
-![build status](https://travis-ci.org/preslavrachev/cryptotrader.svg?branch=master)
+![build status](https://travis-ci.org/jamesbrookssoft/cryptotrader.svg?branch=master)
 
 CryptoTrader is a system for automating crypto-currency trading transactions, based on different signals and trading strategies.
 

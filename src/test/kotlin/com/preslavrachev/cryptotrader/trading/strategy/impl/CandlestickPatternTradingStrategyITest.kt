@@ -1,13 +1,13 @@
-package com.preslavrachev.cryptotrader.trading.strategy.impl
+package com.jamesbrookssoft.cryptotrader.trading.strategy.impl
 
-import com.preslavrachev.cryptotrader.calculateLocalDateTime
-import com.preslavrachev.cryptotrader.config.MainAppConfig
-import com.preslavrachev.cryptotrader.extension.minusSecondPeriods
-import com.preslavrachev.cryptotrader.extension.toCandlestick
-import com.preslavrachev.cryptotrader.extension.toPairs
-import com.preslavrachev.cryptotrader.extension.toUnixTimestamp
-import com.preslavrachev.cryptotrader.trading.instrument.timeline.TimelineNode
-import com.preslavrachev.cryptotrader.trading.strategy.TradingStrategyDecisionEnum
+import com.jamesbrookssoft.cryptotrader.calculateLocalDateTime
+import com.jamesbrookssoft.cryptotrader.config.MainAppConfig
+import com.jamesbrookssoft.cryptotrader.extension.minusSecondPeriods
+import com.jamesbrookssoft.cryptotrader.extension.toCandlestick
+import com.jamesbrookssoft.cryptotrader.extension.toPairs
+import com.jamesbrookssoft.cryptotrader.extension.toUnixTimestamp
+import com.jamesbrookssoft.cryptotrader.trading.instrument.timeline.TimelineNode
+import com.jamesbrookssoft.cryptotrader.trading.strategy.TradingStrategyDecisionEnum
 import org.junit.Assert.assertTrue
 import org.junit.Before
 import org.junit.Ignore

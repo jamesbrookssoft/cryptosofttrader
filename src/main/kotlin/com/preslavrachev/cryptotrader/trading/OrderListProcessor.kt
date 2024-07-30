@@ -1,9 +1,9 @@
-package com.preslavrachev.cryptotrader.trading
+package com.jamesbrookssoft.cryptotrader.trading
 
-import com.preslavrachev.cryptotrader.mvc.model.Order
-import com.preslavrachev.cryptotrader.mvc.model.OrderStateEnum
-import com.preslavrachev.cryptotrader.session.AppSession
-import com.preslavrachev.cryptotrader.trading.api.TradingApi
+import com.jamesbrookssoft.cryptotrader.mvc.model.Order
+import com.jamesbrookssoft.cryptotrader.mvc.model.OrderStateEnum
+import com.jamesbrookssoft.cryptotrader.session.AppSession
+import com.jamesbrookssoft.cryptotrader.trading.api.TradingApi
 import org.springframework.scheduling.annotation.Scheduled
 import org.springframework.stereotype.Component
 import reactor.core.publisher.Flux

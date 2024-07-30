@@ -1,4 +1,4 @@
-package com.preslavrachev.cryptotrader.mvc.model
+package com.jamesbrookssoft.cryptotrader.mvc.model
 
 enum class OrderTypeEnum {
     BUY,

@@ -1,9 +1,9 @@
-package com.preslavrachev.cryptotrader.trading.instrument.suppress
+package com.jamesbrookssoft.cryptotrader.trading.instrument.suppress
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.module.kotlin.KotlinModule
 import com.fasterxml.jackson.module.kotlin.readValue
-import com.preslavrachev.cryptotrader.trading.helper.PriceAndTimestamp
+import com.jamesbrookssoft.cryptotrader.trading.helper.PriceAndTimestamp
 import org.hamcrest.CoreMatchers.`is`
 import org.junit.Assert.assertThat
 import org.junit.Test

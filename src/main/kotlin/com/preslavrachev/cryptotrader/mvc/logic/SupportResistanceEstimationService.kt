@@ -1,11 +1,11 @@
-package com.preslavrachev.cryptotrader.mvc.logic
+package com.jamesbrookssoft.cryptotrader.mvc.logic
 
-import com.preslavrachev.cryptotrader.extension.minusSecondPeriods
-import com.preslavrachev.cryptotrader.extension.toCandlestick
-import com.preslavrachev.cryptotrader.extension.toUnixTimestamp
-import com.preslavrachev.cryptotrader.trading.helper.PriceAndTimestamp
-import com.preslavrachev.cryptotrader.trading.helper.toPricesAndTimestamps
-import com.preslavrachev.cryptotrader.trading.instrument.suppress.SupportResistanceLevelEstimator
+import com.jamesbrookssoft.cryptotrader.extension.minusSecondPeriods
+import com.jamesbrookssoft.cryptotrader.extension.toCandlestick
+import com.jamesbrookssoft.cryptotrader.extension.toUnixTimestamp
+import com.jamesbrookssoft.cryptotrader.trading.helper.PriceAndTimestamp
+import com.jamesbrookssoft.cryptotrader.trading.helper.toPricesAndTimestamps
+import com.jamesbrookssoft.cryptotrader.trading.instrument.suppress.SupportResistanceLevelEstimator
 import org.springframework.stereotype.Service
 import remote.poloniex.model.ChartDataEntry
 import remote.poloniex.service.PoloniexApiService

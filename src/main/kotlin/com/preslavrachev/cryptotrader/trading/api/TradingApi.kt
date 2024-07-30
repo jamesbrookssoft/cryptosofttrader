@@ -1,6 +1,6 @@
-package com.preslavrachev.cryptotrader.trading.api
+package com.jamesbrookssoft.cryptotrader.trading.api
 
-import com.preslavrachev.cryptotrader.mvc.model.Order
+import com.jamesbrookssoft.cryptotrader.mvc.model.Order
 
 interface TradingApi {
     fun placeOrder(order: Order): Boolean

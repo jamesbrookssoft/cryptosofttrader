@@ -1,4 +1,4 @@
-package com.preslavrachev.cryptotrader.trading.strategy
+package com.jamesbrookssoft.cryptotrader.trading.strategy
 
 enum class TradingStrategyDecisionEnum {
     BUY,

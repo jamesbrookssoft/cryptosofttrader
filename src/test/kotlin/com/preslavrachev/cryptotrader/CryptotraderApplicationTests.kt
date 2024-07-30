@@ -1,4 +1,4 @@
-package com.preslavrachev.cryptotrader
+package com.jamesbrookssoft.cryptotrader
 
 import org.junit.Test
 import org.junit.runner.RunWith

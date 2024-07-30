@@ -1,6 +1,6 @@
-package com.preslavrachev.cryptotrader.extension
+package com.jamesbrookssoft.cryptotrader.extension
 
-import com.preslavrachev.cryptotrader.trading.instrument.candlestick.Candlestick
+import com.jamesbrookssoft.cryptotrader.trading.instrument.candlestick.Candlestick
 import remote.poloniex.model.ChartDataEntry
 
 fun ChartDataEntry.toCandlestick(): Candlestick {
